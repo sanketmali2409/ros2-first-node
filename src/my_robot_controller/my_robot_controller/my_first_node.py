@@ -11,7 +11,7 @@ class MyNode(Node):
 # ERROR: This line should be removed. It's calling rclpy.shutdown() outside of any function,
 # which will cause the ROS 2 system to shut down before the node even starts.
 rclpy.shutdown()  
-'''
+
 def main(args=None):
     rclpy.init(args=args)
     node = MyNode()
@@ -21,5 +21,5 @@ def main(args=None):
 if __name__ == '__main__':
     main()
 
-'''
+
   
