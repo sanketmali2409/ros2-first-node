@@ -1,3 +1,9 @@
 [console_scripts]
+client_node = my_robot_controller.client_node:main
+led_client = my_robot_controller.led_client:main
+led_service = my_robot_controller.led_service:main
 my_first_node = my_robot_controller.my_first_node:main
+publisher_node = my_robot_controller.publisher_node:main
+service_node = my_robot_controller.service_node:main
+subscriber_node = my_robot_controller.subscriber_node:main
 

@@ -1,0 +1,22 @@
+[0.489s] Invoking command in '/home/sanket/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/sanket/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanket/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sanket/ros2_ws/build/my_robot_controller/build --no-deps
+[0.673s] running develop
+[0.776s] running egg_info
+[0.776s] writing my_robot_controller.egg-info/PKG-INFO
+[0.776s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.776s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.776s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.776s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.778s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.779s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.779s] running build_ext
+[0.779s] Creating /home/sanket/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.780s] Installing client_node script to /home/sanket/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.780s] Installing led_client script to /home/sanket/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.780s] Installing led_service script to /home/sanket/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.780s] Installing my_first_node script to /home/sanket/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.780s] Installing publisher_node script to /home/sanket/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.780s] Installing service_node script to /home/sanket/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.780s] Installing subscriber_node script to /home/sanket/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.780s] 
+[0.780s] Installed /home/sanket/ros2_ws/build/my_robot_controller
+[0.801s] Invoked command in '/home/sanket/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/sanket/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanket/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sanket/ros2_ws/build/my_robot_controller/build --no-deps

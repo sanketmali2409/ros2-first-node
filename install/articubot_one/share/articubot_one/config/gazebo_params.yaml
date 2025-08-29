@@ -1,3 +1,1 @@
-gazebo:
-  ros__parameters:
-    publish_rate: 400.0
+/home/sanket/ros2_ws/src/articubot_one/config/gazebo_params.yaml

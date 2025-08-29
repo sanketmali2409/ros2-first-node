@@ -1,11 +1,11 @@
 Metadata-Version: 2.1
 Name: my-robot-controller
 Version: 0.0.0
-Summary: TODO: Package description
+Summary: My robot controller nodes
 Home-page: UNKNOWN
 Maintainer: sanket
-Maintainer-email: malisanket2509@gmail.com
-License: TODO: License declaration
+Maintainer-email: sanket@example.com
+License: Apache License 2.0
 Platform: UNKNOWN
 
 UNKNOWN
