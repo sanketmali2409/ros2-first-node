@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: my-robot-controller
 Version: 0.0.0
-Summary: My robot controller nodes
+Summary: My Robot Controller package
 Home-page: UNKNOWN
-Maintainer: sanket
-Maintainer-email: sanket@example.com
+Maintainer: Sanket
+Maintainer-email: you@example.com
 License: Apache License 2.0
 Platform: UNKNOWN
 

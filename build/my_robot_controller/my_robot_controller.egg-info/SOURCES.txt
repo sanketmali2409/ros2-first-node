@@ -1,13 +1,6 @@
 package.xml
 setup.cfg
 setup.py
-../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
-../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt
-../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
-../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
-../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
-../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
-../../build/my_robot_controller/my_robot_controller.egg-info/zip-safe
 launch/all_nodes_launch.py
 my_robot_controller/__init__.py
 my_robot_controller/client_node.py
@@ -17,6 +10,8 @@ my_robot_controller/my_first_node.py
 my_robot_controller/publisher_node.py
 my_robot_controller/service_node.py
 my_robot_controller/subscriber_node.py
+my_robot_controller/yes_no_client.py
+my_robot_controller/yes_no_service.py
 my_robot_controller.egg-info/PKG-INFO
 my_robot_controller.egg-info/SOURCES.txt
 my_robot_controller.egg-info/dependency_links.txt

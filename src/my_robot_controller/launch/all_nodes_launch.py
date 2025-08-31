@@ -32,4 +32,24 @@ def generate_launch_description():
             executable='client_node',
             name='client_node'
         ),
+          Node(
+            package='my_robot_controller',
+            executable='led_client',
+            name='led_client'
+        ),
+          Node(
+            package='my_robot_controller',
+            executable='led_service',
+            name='led_service'
+        ),
+        Node(
+            package='my_robot_controller',
+            executable='yes_no_service',
+            name='yes_no_service'
+        ),
+        Node(
+            package='my_robot_controller',
+            executable='yes_no_client',
+            name='yes_no_client'
+        ),
     ])

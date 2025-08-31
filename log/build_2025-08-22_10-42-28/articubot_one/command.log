@@ -1,4 +1,0 @@
-Invoking command in '/home/sanket/ros2_ws/build/articubot_one': CMAKE_PREFIX_PATH=/home/sanket/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/sanket/ros2_ws/build/articubot_one -- -j12 -l12
-Invoked command in '/home/sanket/ros2_ws/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=/home/sanket/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/sanket/ros2_ws/build/articubot_one -- -j12 -l12
-Invoking command in '/home/sanket/ros2_ws/build/articubot_one': CMAKE_PREFIX_PATH=/home/sanket/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/sanket/ros2_ws/build/articubot_one
-Invoked command in '/home/sanket/ros2_ws/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=/home/sanket/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/sanket/ros2_ws/build/articubot_one
