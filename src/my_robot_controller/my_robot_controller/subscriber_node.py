@@ -6,7 +6,7 @@ from std_msgs.msg import String
 
 class SubscriberNode(Node):
     def __init__(self):
-        super().__init__('simple_subscriber')
+        super().__init__('simple_Subscriber')
         self.subscription = self.create_subscription(
             String,
             'chatter',
