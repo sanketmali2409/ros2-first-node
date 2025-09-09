@@ -15,7 +15,7 @@ class SubscriberNode(Node):
         self.subscription  # prevent unused variable warning
 
     def listener_callback(self, msg):
-        self.get_logger().info(f'I Heard: "{msg.data}"')
+        self.get_logger().info(f'I heard: "{msg.data}"')
 
 def main(args=None):
     rclpy.init(args=args)
